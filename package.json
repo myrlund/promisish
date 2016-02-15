@@ -1,0 +1,19 @@
+{
+  "name": "promisish",
+  "version": "0.0.1",
+  "description": "A for-demo-purposes Promise implementation.",
+  "main": "promise.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myrlund/promisish"
+  },
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "author": {
+    "name": "Jonas Myrlund",
+    "email": "myrlund@gmail.com",
+    "url": "https://github.com/myrlund/promisish"
+  },
+  "license": "ISC"
+}
